@@ -14,6 +14,9 @@ ________________________________________________________________
 
 NOTE!
 ________________________________________________________________
+
+YOU HAVE TO GET THE ROBLOX PAGE OPEN WHEN YOU EXECUTE THIS SOFTWARE, OTHERWISE, THE CODE WON'T BE REDEEMED IN YOUR ACCOUNT!!!!
+
 Some of you are having an error when executing it. 
 This usually happens cause you haven't disabled WINDOWS DEFENDER and it blocks it.
 
